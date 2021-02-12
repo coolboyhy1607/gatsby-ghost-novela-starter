@@ -96,7 +96,7 @@ module.exports = {
   siteDescription:
     "Curated modern business stories",
   language: "en",
-  logoUrl: "logo-8.png",
+  logoUrl: "https://static.seren.ooo/2021/01/logo-8.png",
   iconUrl:
     "https://static.seren.ooo/2021/01/Sereno-Icon-8.png",
   coverUrl: "cover.jpg",
