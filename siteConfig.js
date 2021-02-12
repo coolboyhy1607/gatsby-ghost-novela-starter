@@ -1,56 +1,56 @@
 module.exports = {
-  siteUrl: "https://ghost-novela-preview.draftbox.co",
+  siteUrl: "https://seren.ooo",
   postsPerPage: 12,
-  siteTitleMeta: "Built with Draftbox",
+  siteTitleMeta: "Curated modern business stories",
   siteDescriptionMeta:
-    "Lightning fast, secure front-end for your WordPress or Ghost blog, without coding.",
+    "Newsletter tổng hợp và xâu chuỗi những câu chuyện, sự thay đổi đang diễn ra bên ngoài Việt Nam. Chúng tôi lắng nghe và phân tích thay vì chỉ trích hay phê phán, để đưa bạn và chúng tôi tiến đến gần hơn những gì chúng ta đang tìm kiếm",
   shareImageWidth: 1000,
   shareImageHeight: 523,
-  shortTitle: "Built with Draftbox",
-  siteIcon: "favicon.png",
+  shortTitle: "Sereno",
+  siteIcon: "Sereno Icon-8.png",
   backgroundColor: "#e9e9e9",
   themeColor: "#15171A",
-  apiUrl: "https://ghost.theasdfghjkl.com",
+  apiUrl: "https://seren.ooo",
   header: {
     navigation: [
       {
         label: "Home",
-        url: "https://ghost-novela-preview.draftbox.co/",
+        url: "https://seren.ooo/",
       },
       {
         label: "Contact",
-        url: "https://ghost-novela-preview.draftbox.co/contact",
+        url: "https://seren.ooo/contact",
       },
     ],
   },
   footer: {
-    copyright: "Built with Draftbox",
+    copyright: "Sereno",
     navigation: [
       {
         label: "Home",
-        url: "https://ghost-novela-preview.draftbox.co/",
+        url: "https://seren.ooo/",
       },
-      {
-        label: "Sitemap",
-        url: "https://ghost-novela-preview.draftbox.co/sitemap.xml",
-      },
-      {
-        label: "RSS",
-        url: "https://ghost-novela-preview.draftbox.co/rss.xml",
-      },
+      // {
+      //   label: "Sitemap",
+      //   url: "https://seren.ooo/sitemap.xml",
+      // },
+      // {
+      //   label: "RSS",
+      //   url: "https://seren.ooo/rss.xml",
+      // },
       {
         label: "Contact",
-        url: "https://ghost-novela-preview.draftbox.co/contact",
+        url: "https://seren.ooo/contact",
       },
-      {
-        label: "External Link",
-        url: "https://spectrum.chat/gatsby-js/themes?tab=posts",
-      },
+      // {
+      //   label: "External Link",
+      //   url: "https://spectrum.chat/gatsby-js/themes?tab=posts",
+      // },
     ],
   },
   subscribeWidget: {
     visible: true,
-    title: "Subscribe to Built with Draftbox",
+    title: "Subscribe to Sereno",
     helpText: "Get the latest posts delivered right to your inbox.",
     successMessage: "Thanks for subscribing to Built with Draftbox.",
   },
@@ -68,37 +68,37 @@ module.exports = {
     whatsapp: "",
   },
   contactWidget: {
-    title: "Contact Built with Draftbox",
+    title: "Liên hệ",
     successMessage: "We’ll get in touch with you soon.",
   },
   metadata: {
-    title: "Built with Draftbox",
+    title: "Sereno",
     description:
-      "Lightning fast, secure front-end for your WordPress or Ghost blog, without coding. Draftbox is a new-age blogging platform for everyone, built on Gatsby.",
+      "Newsletter tổng hợp và xâu chuỗi những câu chuyện, sự thay đổi đang diễn ra bên ngoài Việt Nam. Chúng tôi lắng nghe và phân tích thay vì chỉ trích hay phê phán, để đưa bạn và chúng tôi tiến đến gần hơn những gì chúng ta đang tìm kiếm",
   },
   twitterCard: {
-    title: "Built with Draftbox",
+    title: "Sereno",
     description:
-      "Lightning fast, secure front-end for your WordPress or Ghost blog, without coding. Draftbox is a new-age blogging platform for everyone, built on Gatsby.",
+      "Newsletter tổng hợp và xâu chuỗi những câu chuyện, sự thay đổi đang diễn ra bên ngoài Việt Nam. Chúng tôi lắng nghe và phân tích thay vì chỉ trích hay phê phán, để đưa bạn và chúng tôi tiến đến gần hơn những gì chúng ta đang tìm kiếm",
     imageUrl: "twitterImage.png",
     username: "@DraftboxHQ",
   },
   facebookCard: {
-    title: "Built with Draftbox",
+    title: "Sereno",
     description:
-      "Lightning fast, secure front-end for your WordPress or Ghost blog, without coding. Draftbox is a new-age blogging platform for everyone, built on Gatsby.",
+      "Newsletter tổng hợp và xâu chuỗi những câu chuyện, sự thay đổi đang diễn ra bên ngoài Việt Nam. Chúng tôi lắng nghe và phân tích thay vì chỉ trích hay phê phán, để đưa bạn và chúng tôi tiến đến gần hơn những gì chúng ta đang tìm kiếm",
     imageUrl: "facebookImage.png",
     appId: "",
     width: 1000,
     height: 523,
   },
-  siteTitle: "Built with Draftbox",
+  siteTitle: "Sereno",
   siteDescription:
-    "Lightning fast, secure front-end for your WordPress or Ghost blog, without coding.",
+    "Curated modern business stories",
   language: "en",
-  logoUrl: "logo.svg",
+  logoUrl: "logo-8.png",
   iconUrl:
-    "https://ghost.theasdfghjkl.com/content/images/2020/05/draftbox-colored-icon.png",
+    "https://static.seren.ooo/2021/01/Sereno-Icon-8.png",
   coverUrl: "cover.jpg",
   alternateLogoUrl: "alternateLogo.svg",
   themeConfig: {
